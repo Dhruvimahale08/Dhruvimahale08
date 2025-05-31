@@ -14,7 +14,7 @@
 ## 👩‍🎓 About Me
 
 - 🎓 B.Tech Computer Science Student @ **CHARUSAT (CSPIT)**  
-- 🤖 Exploring AI, **LLMs**, **RAG systems**,**Agentic AI** and **multimodal models**
+- 🤖 Exploring AI, **LLMs**, **RAG systems**, **Agentic AI** and **multimodal models**
 - 🔬 Passionate about applying AI to real-world problems like education, agriculture & mental health  
 - 👯 Looking for **internships**, **research roles**, and **collaborative AI projects**
 - 💭 I believe in **learning by building**, backed by curiosity and creativity  
