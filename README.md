@@ -71,7 +71,7 @@
 
 ## 🏆 Certifications
 
-- 📘 NPTEL: Data Structures & Algorithms (IIT Kharagpur) | DBMS (IIT Kharagpur)
+- 📘 NPTEL: Data Structures & Algorithms (IIT Kharagpur) | DBMS (IIT Kharagpur) | Deep Learning | Introduction to machine learning
 - 🤖 Coursera: Supervised Machine Learning – DeepLearning.AI
 - 🔍 Code Unnati: Python, Data Analysis, AI, SAP Chatbot
 - 📊 Great Learning: Power BI Data Visualization
